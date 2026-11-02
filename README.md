@@ -66,4 +66,4 @@ other than the theme track is synthesized in code.
 
 ## License
 The code is under the MIT license (see [LICENSE](LICENSE)). The fonts and the theme track keep
-their own licenses.
+their own licenses (see [NOTICE.md](NOTICE.md)).
